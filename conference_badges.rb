@@ -6,4 +6,6 @@ badge_maker("Arel")
 end
 
 def batch_badge_creator
+  badge_names = [Edsger, Ada, Charles, Alan, Grace , Linus, Matz]
+  
 
