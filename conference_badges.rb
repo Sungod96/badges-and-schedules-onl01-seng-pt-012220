@@ -7,5 +7,5 @@ end
 
 def batch_badge_creator
   names = [Edsger, Ada, Charles, Alan, Grace , Linus, Matz]
-  names.each{|name| puts "Hello,#{badge_name!
+  names.each{|name| puts "Hello, #{name} "Helo,#{badge_name!
 
