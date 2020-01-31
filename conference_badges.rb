@@ -6,6 +6,8 @@ badge_maker("Arel")
 end
 
 def batch_badge_creator
-  names = [Edsger, Ada, Charles, Alan, Grace , Linus, Matz]
-  names.each{|name| puts "Hello, #{name,#{badge_name!
+  names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+  names.each{|name| 
+  puts  "Hello, #{name}!  You'll be assigned to room #{counter}!"
+  
 
